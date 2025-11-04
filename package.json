@@ -1,0 +1,24 @@
+{
+  "name": "node-lab1",
+  "version": "1.0.0",
+  "description": "node lab 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bobby92262/wad2-api-labs.git"
+  },
+  "author": "Bobby92262",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bobby92262/wad2-api-labs/issues"
+  },
+  "homepage": "https://github.com/Bobby92262/wad2-api-labs#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "nodemon": "^3.1.10"
+  }
+}
